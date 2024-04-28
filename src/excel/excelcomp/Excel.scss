@@ -1,0 +1,49 @@
+img{
+    width: 8vw;
+    height:18vh;
+    transition: ease-in-out .3s ;
+&:hover{
+    width: 10vw;
+    height:18vh; 
+}}
+
+// .handsontable{
+//     img{
+//         width: 20vw;
+//         height:35vh;
+//         transition: ease-in-out .3s ;
+//         border-radius: 10px;
+//         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+//         margin-left: 450px;
+//     &:hover{
+//         width: 23vw;
+//         height:25vh;
+//     }
+//     }
+//     h2{
+//         cursor: pointer;
+//         transform: scale(1);
+//         transition: transform 0.5s ease;
+//         &:hover{
+//             color: bisque;
+//             cursor: grab;
+//             border-bottom: 2px solid grey;
+//             transform: scale(1.2);
+//         }
+//     }
+// }
+// .home
+// {
+//     img{
+//         width: 20vw;
+//         height:35vh;
+//         transition: ease-in-out .3s ;
+//         border-radius: 10px;
+//         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+//         margin-left: 450px;
+//     &:hover{
+//         width: 23vw;
+//         height:25vh;
+//     }
+//     }
+// }

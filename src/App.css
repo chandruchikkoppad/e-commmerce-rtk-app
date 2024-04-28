@@ -1,0 +1,16 @@
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.card{
+  width:300px;
+  height:47vh;
+  border:1px solid lightGrey;
+  border-radius:10px;display:flex;flex-direction:column;flex-wrap:wrap;
+padding: 8px 0px;
+}
+
+
+
